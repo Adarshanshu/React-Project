@@ -1,0 +1,15 @@
+ul{
+    display:flex;
+    gap:12px;
+    padding:12px 3px;
+    background-color:rgb(153, 169, 83);
+}
+
+li{
+    list-style:none;
+}
+nav {
+  position: sticky;
+  top: 0;
+}
+

@@ -1,0 +1,26 @@
+button{
+    margin : 7px;
+    padding:3px;
+    border:2px solid orange;
+    border-radius:10px;
+
+}
+h3{
+    margin:20px;
+    border:3px solid red;
+    padding:5px;
+    width:110px;
+    margin-left:500px;
+}
+.increase{
+    background-color:green;
+    color:aliceblue;
+}
+.decrease{
+    background-color:red;
+    color:aliceblue;
+}
+.reset{
+    background-color:yellowgreen;
+    color:aliceblue;
+}

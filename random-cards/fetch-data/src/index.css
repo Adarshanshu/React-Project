@@ -1,0 +1,24 @@
+.card{
+  border:2px solid black;
+  max-width:23vw;
+  overflow:hidden;
+  margin-left:30px;
+}
+.container{
+  display:flex;
+  gap:34px;
+  flex-wrap:wrap;
+}
+*{
+  margin:0;
+  padding:0;
+}
+.footer{
+  position:sticky;
+  bottom:0;
+}
+.sideBar {
+  position: sticky;  /* Sticks when scrolling */
+  top: 0;            /* Starts at the top */
+  left:0;
+}
